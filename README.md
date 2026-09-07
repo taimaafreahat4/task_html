@@ -17,4 +17,4 @@ This project contains HTML exercises and tasks.
 
 ## Author
 
-Taimaa Freahat 
+Taimaa Mohammad Freahat 
